@@ -1,7 +1,9 @@
 import json
+import os
 
-# Ruta del archivo JSON
-RUTA_JSON = "datos.json"
+# Ruta del archivo JSON (ubicada junto a este script)
+# Esto asegura que el script encuentre datos.json aunque se ejecute desde otra carpeta
+RUTA_JSON = os.path.join(os.path.dirname(__file__), "datos.json")
 
 # Cargar datos desde el JSON
 def cargar_datos():
