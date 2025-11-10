@@ -1,0 +1,1335 @@
+{
+    "fecha_analisis": "2025-11-10 12:58:57",
+    "analisis_mensual": {
+        "2025-05": {
+            "vistas_totales_nicho": [
+                {
+                    "nicho_tribu": "Gym Enthusiast",
+                    "vistas_totales": 19204725,
+                    "total_videos": 186
+                },
+                {
+                    "nicho_tribu": "Vegano",
+                    "vistas_totales": 13971096,
+                    "total_videos": 147
+                },
+                {
+                    "nicho_tribu": "Conveniente/Express",
+                    "vistas_totales": 12682807,
+                    "total_videos": 128
+                },
+                {
+                    "nicho_tribu": "Eco-Friendly",
+                    "vistas_totales": 3554413,
+                    "total_videos": 126
+                },
+                {
+                    "nicho_tribu": "Familia Numerosa",
+                    "vistas_totales": 3391136,
+                    "total_videos": 119
+                },
+                {
+                    "nicho_tribu": "Celíaco/Intolerancias",
+                    "vistas_totales": 1938995,
+                    "total_videos": 72
+                },
+                {
+                    "nicho_tribu": "Gourmet/Premium",
+                    "vistas_totales": 1260617,
+                    "total_videos": 44
+                }
+            ],
+            "engagement_promedio_nicho": [
+                {
+                    "nicho_tribu": "Familia Numerosa",
+                    "ratio_engagement_promedio": 0.05155125388181535
+                },
+                {
+                    "nicho_tribu": "Eco-Friendly",
+                    "ratio_engagement_promedio": 0.05049153699002652
+                },
+                {
+                    "nicho_tribu": "Gym Enthusiast",
+                    "ratio_engagement_promedio": 0.050398009371921286
+                },
+                {
+                    "nicho_tribu": "Conveniente/Express",
+                    "ratio_engagement_promedio": 0.04813559158162627
+                },
+                {
+                    "nicho_tribu": "Vegano",
+                    "ratio_engagement_promedio": 0.047470102640105705
+                },
+                {
+                    "nicho_tribu": "Celíaco/Intolerancias",
+                    "ratio_engagement_promedio": 0.04737063608230027
+                },
+                {
+                    "nicho_tribu": "Gourmet/Premium",
+                    "ratio_engagement_promedio": 0.046658103134040264
+                }
+            ],
+            "productos_en_tendencia": {
+                "Gym Enthusiast": [
+                    {
+                        "producto_mercadona": "Pechuga de Pavo Loncheada",
+                        "frecuencia_videos": 43,
+                        "vistas_totales": 4879292
+                    },
+                    {
+                        "producto_mercadona": "Barrita de Proteínas (Sabor Varios)",
+                        "frecuencia_videos": 42,
+                        "vistas_totales": 4382702
+                    },
+                    {
+                        "producto_mercadona": "Queso Fresco Batido 0%",
+                        "frecuencia_videos": 37,
+                        "vistas_totales": 4000152
+                    }
+                ],
+                "Eco-Friendly": [
+                    {
+                        "producto_mercadona": "Arroz Integral BIO",
+                        "frecuencia_videos": 34,
+                        "vistas_totales": 952480
+                    },
+                    {
+                        "producto_mercadona": "Huevos Ecológicos (L)",
+                        "frecuencia_videos": 29,
+                        "vistas_totales": 876699
+                    },
+                    {
+                        "producto_mercadona": "Detergente Ecológico",
+                        "frecuencia_videos": 28,
+                        "vistas_totales": 778314
+                    }
+                ],
+                "Celíaco/Intolerancias": [
+                    {
+                        "producto_mercadona": "Pan Tostado Sin Gluten",
+                        "frecuencia_videos": 16,
+                        "vistas_totales": 475770
+                    },
+                    {
+                        "producto_mercadona": "Pasta de Maíz/Arroz (Sin Gluten)",
+                        "frecuencia_videos": 16,
+                        "vistas_totales": 404282
+                    },
+                    {
+                        "producto_mercadona": "Leche Sin Lactosa",
+                        "frecuencia_videos": 15,
+                        "vistas_totales": 394890
+                    }
+                ],
+                "Vegano": [
+                    {
+                        "producto_mercadona": "Hummus Clásico",
+                        "frecuencia_videos": 35,
+                        "vistas_totales": 3623765
+                    },
+                    {
+                        "producto_mercadona": "Hamburguesas Vegetales (Sabor X)",
+                        "frecuencia_videos": 36,
+                        "vistas_totales": 3320791
+                    },
+                    {
+                        "producto_mercadona": "Tofu Ecológico Hacendado",
+                        "frecuencia_videos": 33,
+                        "vistas_totales": 3191410
+                    }
+                ],
+                "Gourmet/Premium": [
+                    {
+                        "producto_mercadona": "Aceite de Oliva Virgen Extra (AOVE) Selección",
+                        "frecuencia_videos": 13,
+                        "vistas_totales": 345383
+                    },
+                    {
+                        "producto_mercadona": "Vino Tinto Reserva",
+                        "frecuencia_videos": 10,
+                        "vistas_totales": 304321
+                    },
+                    {
+                        "producto_mercadona": "Queso Curado Añejo",
+                        "frecuencia_videos": 7,
+                        "vistas_totales": 233048
+                    }
+                ],
+                "Conveniente/Express": [
+                    {
+                        "producto_mercadona": "Lasaña de Carne Refrigerada",
+                        "frecuencia_videos": 29,
+                        "vistas_totales": 3031649
+                    },
+                    {
+                        "producto_mercadona": "Pizza Congelada Variada",
+                        "frecuencia_videos": 29,
+                        "vistas_totales": 2826070
+                    },
+                    {
+                        "producto_mercadona": "Ensalada Completa Lista para Comer",
+                        "frecuencia_videos": 23,
+                        "vistas_totales": 2740176
+                    }
+                ],
+                "Familia Numerosa": [
+                    {
+                        "producto_mercadona": "Arroz Redondo (Saco 5kg)",
+                        "frecuencia_videos": 34,
+                        "vistas_totales": 1073808
+                    },
+                    {
+                        "producto_mercadona": "Huevos Talla L (Docena)",
+                        "frecuencia_videos": 26,
+                        "vistas_totales": 731681
+                    },
+                    {
+                        "producto_mercadona": "Detergente Lavadora Formato XL",
+                        "frecuencia_videos": 21,
+                        "vistas_totales": 556940
+                    }
+                ]
+            }
+        },
+        "2025-06": {
+            "vistas_totales_nicho": [
+                {
+                    "nicho_tribu": "Gym Enthusiast",
+                    "vistas_totales": 25632083,
+                    "total_videos": 275
+                },
+                {
+                    "nicho_tribu": "Vegano",
+                    "vistas_totales": 23657371,
+                    "total_videos": 253
+                },
+                {
+                    "nicho_tribu": "Conveniente/Express",
+                    "vistas_totales": 19662757,
+                    "total_videos": 196
+                },
+                {
+                    "nicho_tribu": "Eco-Friendly",
+                    "vistas_totales": 6004434,
+                    "total_videos": 224
+                },
+                {
+                    "nicho_tribu": "Familia Numerosa",
+                    "vistas_totales": 5212514,
+                    "total_videos": 178
+                },
+                {
+                    "nicho_tribu": "Celíaco/Intolerancias",
+                    "vistas_totales": 3360555,
+                    "total_videos": 113
+                },
+                {
+                    "nicho_tribu": "Gourmet/Premium",
+                    "vistas_totales": 1900275,
+                    "total_videos": 71
+                }
+            ],
+            "engagement_promedio_nicho": [
+                {
+                    "nicho_tribu": "Vegano",
+                    "ratio_engagement_promedio": 0.05195577613993362
+                },
+                {
+                    "nicho_tribu": "Celíaco/Intolerancias",
+                    "ratio_engagement_promedio": 0.05191973943423031
+                },
+                {
+                    "nicho_tribu": "Gourmet/Premium",
+                    "ratio_engagement_promedio": 0.051481848282187916
+                },
+                {
+                    "nicho_tribu": "Familia Numerosa",
+                    "ratio_engagement_promedio": 0.05108203631283643
+                },
+                {
+                    "nicho_tribu": "Gym Enthusiast",
+                    "ratio_engagement_promedio": 0.0509783441362379
+                },
+                {
+                    "nicho_tribu": "Eco-Friendly",
+                    "ratio_engagement_promedio": 0.05091747164443914
+                },
+                {
+                    "nicho_tribu": "Conveniente/Express",
+                    "ratio_engagement_promedio": 0.04736521005817134
+                }
+            ],
+            "productos_en_tendencia": {
+                "Eco-Friendly": [
+                    {
+                        "producto_mercadona": "Arroz Integral BIO",
+                        "frecuencia_videos": 48,
+                        "vistas_totales": 1489236
+                    },
+                    {
+                        "producto_mercadona": "Champú Sólido",
+                        "frecuencia_videos": 51,
+                        "vistas_totales": 1358686
+                    },
+                    {
+                        "producto_mercadona": "Bolsas Reutilizables Fruta",
+                        "frecuencia_videos": 49,
+                        "vistas_totales": 1266631
+                    }
+                ],
+                "Conveniente/Express": [
+                    {
+                        "producto_mercadona": "Pizza Congelada Variada",
+                        "frecuencia_videos": 42,
+                        "vistas_totales": 4370454
+                    },
+                    {
+                        "producto_mercadona": "Bandeja de Sushi",
+                        "frecuencia_videos": 45,
+                        "vistas_totales": 4171794
+                    },
+                    {
+                        "producto_mercadona": "Ensalada Completa Lista para Comer",
+                        "frecuencia_videos": 40,
+                        "vistas_totales": 3886256
+                    }
+                ],
+                "Gym Enthusiast": [
+                    {
+                        "producto_mercadona": "Crema de Cacahuete Natural",
+                        "frecuencia_videos": 67,
+                        "vistas_totales": 5617465
+                    },
+                    {
+                        "producto_mercadona": "Claras de Huevo",
+                        "frecuencia_videos": 57,
+                        "vistas_totales": 5288123
+                    },
+                    {
+                        "producto_mercadona": "Barrita de Proteínas (Sabor Varios)",
+                        "frecuencia_videos": 55,
+                        "vistas_totales": 5225793
+                    }
+                ],
+                "Familia Numerosa": [
+                    {
+                        "producto_mercadona": "Detergente Lavadora Formato XL",
+                        "frecuencia_videos": 43,
+                        "vistas_totales": 1308128
+                    },
+                    {
+                        "producto_mercadona": "Pasta Espagueti (1kg)",
+                        "frecuencia_videos": 38,
+                        "vistas_totales": 1157763
+                    },
+                    {
+                        "producto_mercadona": "Pack Ahorro de Leche Entera (6L)",
+                        "frecuencia_videos": 36,
+                        "vistas_totales": 1042737
+                    }
+                ],
+                "Celíaco/Intolerancias": [
+                    {
+                        "producto_mercadona": "Pan Tostado Sin Gluten",
+                        "frecuencia_videos": 24,
+                        "vistas_totales": 826692
+                    },
+                    {
+                        "producto_mercadona": "Pasta de Maíz/Arroz (Sin Gluten)",
+                        "frecuencia_videos": 27,
+                        "vistas_totales": 805037
+                    },
+                    {
+                        "producto_mercadona": "Leche Sin Lactosa",
+                        "frecuencia_videos": 23,
+                        "vistas_totales": 649947
+                    }
+                ],
+                "Vegano": [
+                    {
+                        "producto_mercadona": "Bebida de Avena BIO",
+                        "frecuencia_videos": 64,
+                        "vistas_totales": 6152917
+                    },
+                    {
+                        "producto_mercadona": "Hamburguesas Vegetales (Sabor X)",
+                        "frecuencia_videos": 57,
+                        "vistas_totales": 5408464
+                    },
+                    {
+                        "producto_mercadona": "Tofu Ecológico Hacendado",
+                        "frecuencia_videos": 48,
+                        "vistas_totales": 4521226
+                    }
+                ],
+                "Gourmet/Premium": [
+                    {
+                        "producto_mercadona": "Queso Curado Añejo",
+                        "frecuencia_videos": 17,
+                        "vistas_totales": 543569
+                    },
+                    {
+                        "producto_mercadona": "Aceite de Oliva Virgen Extra (AOVE) Selección",
+                        "frecuencia_videos": 15,
+                        "vistas_totales": 394752
+                    },
+                    {
+                        "producto_mercadona": "Jamón Ibérico Loncheado",
+                        "frecuencia_videos": 16,
+                        "vistas_totales": 386670
+                    }
+                ]
+            }
+        },
+        "2025-07": {
+            "vistas_totales_nicho": [
+                {
+                    "nicho_tribu": "Gym Enthusiast",
+                    "vistas_totales": 28420767,
+                    "total_videos": 293
+                },
+                {
+                    "nicho_tribu": "Vegano",
+                    "vistas_totales": 27233605,
+                    "total_videos": 270
+                },
+                {
+                    "nicho_tribu": "Conveniente/Express",
+                    "vistas_totales": 21610001,
+                    "total_videos": 211
+                },
+                {
+                    "nicho_tribu": "Familia Numerosa",
+                    "vistas_totales": 6084187,
+                    "total_videos": 214
+                },
+                {
+                    "nicho_tribu": "Eco-Friendly",
+                    "vistas_totales": 5480233,
+                    "total_videos": 214
+                },
+                {
+                    "nicho_tribu": "Celíaco/Intolerancias",
+                    "vistas_totales": 4210283,
+                    "total_videos": 154
+                },
+                {
+                    "nicho_tribu": "Gourmet/Premium",
+                    "vistas_totales": 1839685,
+                    "total_videos": 63
+                }
+            ],
+            "engagement_promedio_nicho": [
+                {
+                    "nicho_tribu": "Conveniente/Express",
+                    "ratio_engagement_promedio": 0.05120492095503543
+                },
+                {
+                    "nicho_tribu": "Vegano",
+                    "ratio_engagement_promedio": 0.050834699193665255
+                },
+                {
+                    "nicho_tribu": "Eco-Friendly",
+                    "ratio_engagement_promedio": 0.05079812234481059
+                },
+                {
+                    "nicho_tribu": "Familia Numerosa",
+                    "ratio_engagement_promedio": 0.05061629905258333
+                },
+                {
+                    "nicho_tribu": "Gourmet/Premium",
+                    "ratio_engagement_promedio": 0.04976225086179753
+                },
+                {
+                    "nicho_tribu": "Celíaco/Intolerancias",
+                    "ratio_engagement_promedio": 0.04927578291207465
+                },
+                {
+                    "nicho_tribu": "Gym Enthusiast",
+                    "ratio_engagement_promedio": 0.048651271624426735
+                }
+            ],
+            "productos_en_tendencia": {
+                "Eco-Friendly": [
+                    {
+                        "producto_mercadona": "Champú Sólido",
+                        "frecuencia_videos": 55,
+                        "vistas_totales": 1383776
+                    },
+                    {
+                        "producto_mercadona": "Detergente Ecológico",
+                        "frecuencia_videos": 49,
+                        "vistas_totales": 1295981
+                    },
+                    {
+                        "producto_mercadona": "Arroz Integral BIO",
+                        "frecuencia_videos": 48,
+                        "vistas_totales": 1271037
+                    }
+                ],
+                "Familia Numerosa": [
+                    {
+                        "producto_mercadona": "Pack Ahorro de Leche Entera (6L)",
+                        "frecuencia_videos": 47,
+                        "vistas_totales": 1406712
+                    },
+                    {
+                        "producto_mercadona": "Arroz Redondo (Saco 5kg)",
+                        "frecuencia_videos": 52,
+                        "vistas_totales": 1358835
+                    },
+                    {
+                        "producto_mercadona": "Huevos Talla L (Docena)",
+                        "frecuencia_videos": 43,
+                        "vistas_totales": 1288740
+                    }
+                ],
+                "Conveniente/Express": [
+                    {
+                        "producto_mercadona": "Ensalada Completa Lista para Comer",
+                        "frecuencia_videos": 46,
+                        "vistas_totales": 4691140
+                    },
+                    {
+                        "producto_mercadona": "Bandeja de Sushi",
+                        "frecuencia_videos": 43,
+                        "vistas_totales": 4612290
+                    },
+                    {
+                        "producto_mercadona": "Tortilla de Patatas Envasada",
+                        "frecuencia_videos": 41,
+                        "vistas_totales": 4239380
+                    }
+                ],
+                "Vegano": [
+                    {
+                        "producto_mercadona": "Bebida de Avena BIO",
+                        "frecuencia_videos": 62,
+                        "vistas_totales": 6375421
+                    },
+                    {
+                        "producto_mercadona": "Tofu Ecológico Hacendado",
+                        "frecuencia_videos": 56,
+                        "vistas_totales": 5612533
+                    },
+                    {
+                        "producto_mercadona": "Hamburguesas Vegetales (Sabor X)",
+                        "frecuencia_videos": 54,
+                        "vistas_totales": 5489802
+                    }
+                ],
+                "Gourmet/Premium": [
+                    {
+                        "producto_mercadona": "Jamón Ibérico Loncheado",
+                        "frecuencia_videos": 15,
+                        "vistas_totales": 427555
+                    },
+                    {
+                        "producto_mercadona": "Vino Tinto Reserva",
+                        "frecuencia_videos": 13,
+                        "vistas_totales": 421360
+                    },
+                    {
+                        "producto_mercadona": "Chocolate 85% Cacao",
+                        "frecuencia_videos": 12,
+                        "vistas_totales": 397134
+                    }
+                ],
+                "Celíaco/Intolerancias": [
+                    {
+                        "producto_mercadona": "Pan de Molde Sin Gluten",
+                        "frecuencia_videos": 33,
+                        "vistas_totales": 1037741
+                    },
+                    {
+                        "producto_mercadona": "Pan Tostado Sin Gluten",
+                        "frecuencia_videos": 36,
+                        "vistas_totales": 971022
+                    },
+                    {
+                        "producto_mercadona": "Galletas de Arroz",
+                        "frecuencia_videos": 35,
+                        "vistas_totales": 932132
+                    }
+                ],
+                "Gym Enthusiast": [
+                    {
+                        "producto_mercadona": "Crema de Cacahuete Natural",
+                        "frecuencia_videos": 63,
+                        "vistas_totales": 5891532
+                    },
+                    {
+                        "producto_mercadona": "Queso Fresco Batido 0%",
+                        "frecuencia_videos": 61,
+                        "vistas_totales": 5770482
+                    },
+                    {
+                        "producto_mercadona": "Barrita de Proteínas (Sabor Varios)",
+                        "frecuencia_videos": 61,
+                        "vistas_totales": 5713632
+                    }
+                ]
+            }
+        },
+        "2025-08": {
+            "vistas_totales_nicho": [
+                {
+                    "nicho_tribu": "Vegano",
+                    "vistas_totales": 28612899,
+                    "total_videos": 278
+                },
+                {
+                    "nicho_tribu": "Gym Enthusiast",
+                    "vistas_totales": 27993268,
+                    "total_videos": 281
+                },
+                {
+                    "nicho_tribu": "Conveniente/Express",
+                    "vistas_totales": 18395010,
+                    "total_videos": 205
+                },
+                {
+                    "nicho_tribu": "Familia Numerosa",
+                    "vistas_totales": 5402806,
+                    "total_videos": 201
+                },
+                {
+                    "nicho_tribu": "Eco-Friendly",
+                    "vistas_totales": 4799230,
+                    "total_videos": 172
+                },
+                {
+                    "nicho_tribu": "Celíaco/Intolerancias",
+                    "vistas_totales": 3625861,
+                    "total_videos": 128
+                },
+                {
+                    "nicho_tribu": "Gourmet/Premium",
+                    "vistas_totales": 1841645,
+                    "total_videos": 69
+                }
+            ],
+            "engagement_promedio_nicho": [
+                {
+                    "nicho_tribu": "Celíaco/Intolerancias",
+                    "ratio_engagement_promedio": 0.05248195148809625
+                },
+                {
+                    "nicho_tribu": "Familia Numerosa",
+                    "ratio_engagement_promedio": 0.05117332062851296
+                },
+                {
+                    "nicho_tribu": "Conveniente/Express",
+                    "ratio_engagement_promedio": 0.050482039842198095
+                },
+                {
+                    "nicho_tribu": "Gourmet/Premium",
+                    "ratio_engagement_promedio": 0.05015399098699808
+                },
+                {
+                    "nicho_tribu": "Vegano",
+                    "ratio_engagement_promedio": 0.0499125692140699
+                },
+                {
+                    "nicho_tribu": "Eco-Friendly",
+                    "ratio_engagement_promedio": 0.049296431226265744
+                },
+                {
+                    "nicho_tribu": "Gym Enthusiast",
+                    "ratio_engagement_promedio": 0.04831143651421558
+                }
+            ],
+            "productos_en_tendencia": {
+                "Vegano": [
+                    {
+                        "producto_mercadona": "Hamburguesas Vegetales (Sabor X)",
+                        "frecuencia_videos": 60,
+                        "vistas_totales": 7085214
+                    },
+                    {
+                        "producto_mercadona": "Bebida de Avena BIO",
+                        "frecuencia_videos": 56,
+                        "vistas_totales": 6344053
+                    },
+                    {
+                        "producto_mercadona": "Garbanzos Cocidos (Bote)",
+                        "frecuencia_videos": 58,
+                        "vistas_totales": 5751099
+                    }
+                ],
+                "Familia Numerosa": [
+                    {
+                        "producto_mercadona": "Pasta Espagueti (1kg)",
+                        "frecuencia_videos": 49,
+                        "vistas_totales": 1349950
+                    },
+                    {
+                        "producto_mercadona": "Pack Ahorro de Leche Entera (6L)",
+                        "frecuencia_videos": 42,
+                        "vistas_totales": 1106863
+                    },
+                    {
+                        "producto_mercadona": "Detergente Lavadora Formato XL",
+                        "frecuencia_videos": 38,
+                        "vistas_totales": 1088097
+                    }
+                ],
+                "Eco-Friendly": [
+                    {
+                        "producto_mercadona": "Detergente Ecológico",
+                        "frecuencia_videos": 42,
+                        "vistas_totales": 1257796
+                    },
+                    {
+                        "producto_mercadona": "Champú Sólido",
+                        "frecuencia_videos": 35,
+                        "vistas_totales": 998822
+                    },
+                    {
+                        "producto_mercadona": "Bolsas Reutilizables Fruta",
+                        "frecuencia_videos": 37,
+                        "vistas_totales": 987712
+                    }
+                ],
+                "Gym Enthusiast": [
+                    {
+                        "producto_mercadona": "Claras de Huevo",
+                        "frecuencia_videos": 66,
+                        "vistas_totales": 6963913
+                    },
+                    {
+                        "producto_mercadona": "Pechuga de Pavo Loncheada",
+                        "frecuencia_videos": 58,
+                        "vistas_totales": 6574904
+                    },
+                    {
+                        "producto_mercadona": "Barrita de Proteínas (Sabor Varios)",
+                        "frecuencia_videos": 57,
+                        "vistas_totales": 5347199
+                    }
+                ],
+                "Gourmet/Premium": [
+                    {
+                        "producto_mercadona": "Vino Tinto Reserva",
+                        "frecuencia_videos": 17,
+                        "vistas_totales": 461159
+                    },
+                    {
+                        "producto_mercadona": "Queso Curado Añejo",
+                        "frecuencia_videos": 16,
+                        "vistas_totales": 407058
+                    },
+                    {
+                        "producto_mercadona": "Chocolate 85% Cacao",
+                        "frecuencia_videos": 14,
+                        "vistas_totales": 389984
+                    }
+                ],
+                "Conveniente/Express": [
+                    {
+                        "producto_mercadona": "Lasaña de Carne Refrigerada",
+                        "frecuencia_videos": 46,
+                        "vistas_totales": 4606066
+                    },
+                    {
+                        "producto_mercadona": "Tortilla de Patatas Envasada",
+                        "frecuencia_videos": 42,
+                        "vistas_totales": 3866716
+                    },
+                    {
+                        "producto_mercadona": "Bandeja de Sushi",
+                        "frecuencia_videos": 44,
+                        "vistas_totales": 3752057
+                    }
+                ],
+                "Celíaco/Intolerancias": [
+                    {
+                        "producto_mercadona": "Pan Tostado Sin Gluten",
+                        "frecuencia_videos": 34,
+                        "vistas_totales": 1021545
+                    },
+                    {
+                        "producto_mercadona": "Pan de Molde Sin Gluten",
+                        "frecuencia_videos": 26,
+                        "vistas_totales": 776124
+                    },
+                    {
+                        "producto_mercadona": "Leche Sin Lactosa",
+                        "frecuencia_videos": 28,
+                        "vistas_totales": 747268
+                    }
+                ]
+            }
+        },
+        "2025-09": {
+            "vistas_totales_nicho": [
+                {
+                    "nicho_tribu": "Gym Enthusiast",
+                    "vistas_totales": 24857751,
+                    "total_videos": 259
+                },
+                {
+                    "nicho_tribu": "Vegano",
+                    "vistas_totales": 24165831,
+                    "total_videos": 256
+                },
+                {
+                    "nicho_tribu": "Conveniente/Express",
+                    "vistas_totales": 17083349,
+                    "total_videos": 186
+                },
+                {
+                    "nicho_tribu": "Familia Numerosa",
+                    "vistas_totales": 6077902,
+                    "total_videos": 210
+                },
+                {
+                    "nicho_tribu": "Eco-Friendly",
+                    "vistas_totales": 5735811,
+                    "total_videos": 204
+                },
+                {
+                    "nicho_tribu": "Celíaco/Intolerancias",
+                    "vistas_totales": 4094025,
+                    "total_videos": 147
+                },
+                {
+                    "nicho_tribu": "Gourmet/Premium",
+                    "vistas_totales": 1584097,
+                    "total_videos": 63
+                }
+            ],
+            "engagement_promedio_nicho": [
+                {
+                    "nicho_tribu": "Gym Enthusiast",
+                    "ratio_engagement_promedio": 0.0498760005733174
+                },
+                {
+                    "nicho_tribu": "Eco-Friendly",
+                    "ratio_engagement_promedio": 0.04955339939030571
+                },
+                {
+                    "nicho_tribu": "Vegano",
+                    "ratio_engagement_promedio": 0.04950187967428908
+                },
+                {
+                    "nicho_tribu": "Gourmet/Premium",
+                    "ratio_engagement_promedio": 0.04942647202660371
+                },
+                {
+                    "nicho_tribu": "Conveniente/Express",
+                    "ratio_engagement_promedio": 0.04880026208136213
+                },
+                {
+                    "nicho_tribu": "Familia Numerosa",
+                    "ratio_engagement_promedio": 0.04803498961615134
+                },
+                {
+                    "nicho_tribu": "Celíaco/Intolerancias",
+                    "ratio_engagement_promedio": 0.04653131272065719
+                }
+            ],
+            "productos_en_tendencia": {
+                "Familia Numerosa": [
+                    {
+                        "producto_mercadona": "Arroz Redondo (Saco 5kg)",
+                        "frecuencia_videos": 51,
+                        "vistas_totales": 1298963
+                    },
+                    {
+                        "producto_mercadona": "Pack Ahorro de Leche Entera (6L)",
+                        "frecuencia_videos": 41,
+                        "vistas_totales": 1296986
+                    },
+                    {
+                        "producto_mercadona": "Detergente Lavadora Formato XL",
+                        "frecuencia_videos": 40,
+                        "vistas_totales": 1286695
+                    }
+                ],
+                "Vegano": [
+                    {
+                        "producto_mercadona": "Hummus Clásico",
+                        "frecuencia_videos": 58,
+                        "vistas_totales": 5418887
+                    },
+                    {
+                        "producto_mercadona": "Garbanzos Cocidos (Bote)",
+                        "frecuencia_videos": 52,
+                        "vistas_totales": 4976981
+                    },
+                    {
+                        "producto_mercadona": "Hamburguesas Vegetales (Sabor X)",
+                        "frecuencia_videos": 51,
+                        "vistas_totales": 4847720
+                    }
+                ],
+                "Celíaco/Intolerancias": [
+                    {
+                        "producto_mercadona": "Galletas de Arroz",
+                        "frecuencia_videos": 38,
+                        "vistas_totales": 1066398
+                    },
+                    {
+                        "producto_mercadona": "Pan Tostado Sin Gluten",
+                        "frecuencia_videos": 37,
+                        "vistas_totales": 1034819
+                    },
+                    {
+                        "producto_mercadona": "Leche Sin Lactosa",
+                        "frecuencia_videos": 31,
+                        "vistas_totales": 905546
+                    }
+                ],
+                "Gym Enthusiast": [
+                    {
+                        "producto_mercadona": "Barrita de Proteínas (Sabor Varios)",
+                        "frecuencia_videos": 60,
+                        "vistas_totales": 5949280
+                    },
+                    {
+                        "producto_mercadona": "Queso Fresco Batido 0%",
+                        "frecuencia_videos": 56,
+                        "vistas_totales": 5429944
+                    },
+                    {
+                        "producto_mercadona": "Pechuga de Pavo Loncheada",
+                        "frecuencia_videos": 53,
+                        "vistas_totales": 5153354
+                    }
+                ],
+                "Conveniente/Express": [
+                    {
+                        "producto_mercadona": "Ensalada Completa Lista para Comer",
+                        "frecuencia_videos": 43,
+                        "vistas_totales": 3929910
+                    },
+                    {
+                        "producto_mercadona": "Pizza Congelada Variada",
+                        "frecuencia_videos": 36,
+                        "vistas_totales": 3911825
+                    },
+                    {
+                        "producto_mercadona": "Lasaña de Carne Refrigerada",
+                        "frecuencia_videos": 39,
+                        "vistas_totales": 3385450
+                    }
+                ],
+                "Eco-Friendly": [
+                    {
+                        "producto_mercadona": "Arroz Integral BIO",
+                        "frecuencia_videos": 50,
+                        "vistas_totales": 1392321
+                    },
+                    {
+                        "producto_mercadona": "Huevos Ecológicos (L)",
+                        "frecuencia_videos": 41,
+                        "vistas_totales": 1213607
+                    },
+                    {
+                        "producto_mercadona": "Champú Sólido",
+                        "frecuencia_videos": 41,
+                        "vistas_totales": 1120729
+                    }
+                ],
+                "Gourmet/Premium": [
+                    {
+                        "producto_mercadona": "Vino Tinto Reserva",
+                        "frecuencia_videos": 18,
+                        "vistas_totales": 441560
+                    },
+                    {
+                        "producto_mercadona": "Chocolate 85% Cacao",
+                        "frecuencia_videos": 15,
+                        "vistas_totales": 359611
+                    },
+                    {
+                        "producto_mercadona": "Aceite de Oliva Virgen Extra (AOVE) Selección",
+                        "frecuencia_videos": 12,
+                        "vistas_totales": 341385
+                    }
+                ]
+            }
+        },
+        "2025-10": {
+            "vistas_totales_nicho": [
+                {
+                    "nicho_tribu": "Vegano",
+                    "vistas_totales": 27540499,
+                    "total_videos": 291
+                },
+                {
+                    "nicho_tribu": "Gym Enthusiast",
+                    "vistas_totales": 25545185,
+                    "total_videos": 266
+                },
+                {
+                    "nicho_tribu": "Conveniente/Express",
+                    "vistas_totales": 21518641,
+                    "total_videos": 208
+                },
+                {
+                    "nicho_tribu": "Eco-Friendly",
+                    "vistas_totales": 6451683,
+                    "total_videos": 227
+                },
+                {
+                    "nicho_tribu": "Familia Numerosa",
+                    "vistas_totales": 5661302,
+                    "total_videos": 201
+                },
+                {
+                    "nicho_tribu": "Celíaco/Intolerancias",
+                    "vistas_totales": 3431126,
+                    "total_videos": 127
+                },
+                {
+                    "nicho_tribu": "Gourmet/Premium",
+                    "vistas_totales": 1826782,
+                    "total_videos": 69
+                }
+            ],
+            "engagement_promedio_nicho": [
+                {
+                    "nicho_tribu": "Celíaco/Intolerancias",
+                    "ratio_engagement_promedio": 0.0505001118447717
+                },
+                {
+                    "nicho_tribu": "Familia Numerosa",
+                    "ratio_engagement_promedio": 0.049914775569590744
+                },
+                {
+                    "nicho_tribu": "Conveniente/Express",
+                    "ratio_engagement_promedio": 0.04942029220516247
+                },
+                {
+                    "nicho_tribu": "Eco-Friendly",
+                    "ratio_engagement_promedio": 0.04938451597976222
+                },
+                {
+                    "nicho_tribu": "Vegano",
+                    "ratio_engagement_promedio": 0.04916040167889623
+                },
+                {
+                    "nicho_tribu": "Gym Enthusiast",
+                    "ratio_engagement_promedio": 0.048420728385803566
+                },
+                {
+                    "nicho_tribu": "Gourmet/Premium",
+                    "ratio_engagement_promedio": 0.045701008499075366
+                }
+            ],
+            "productos_en_tendencia": {
+                "Gym Enthusiast": [
+                    {
+                        "producto_mercadona": "Barrita de Proteínas (Sabor Varios)",
+                        "frecuencia_videos": 75,
+                        "vistas_totales": 7611966
+                    },
+                    {
+                        "producto_mercadona": "Claras de Huevo",
+                        "frecuencia_videos": 54,
+                        "vistas_totales": 5347084
+                    },
+                    {
+                        "producto_mercadona": "Queso Fresco Batido 0%",
+                        "frecuencia_videos": 54,
+                        "vistas_totales": 5106182
+                    }
+                ],
+                "Eco-Friendly": [
+                    {
+                        "producto_mercadona": "Arroz Integral BIO",
+                        "frecuencia_videos": 54,
+                        "vistas_totales": 1556554
+                    },
+                    {
+                        "producto_mercadona": "Bolsas Reutilizables Fruta",
+                        "frecuencia_videos": 46,
+                        "vistas_totales": 1331507
+                    },
+                    {
+                        "producto_mercadona": "Detergente Ecológico",
+                        "frecuencia_videos": 46,
+                        "vistas_totales": 1242078
+                    }
+                ],
+                "Celíaco/Intolerancias": [
+                    {
+                        "producto_mercadona": "Galletas de Arroz",
+                        "frecuencia_videos": 27,
+                        "vistas_totales": 823864
+                    },
+                    {
+                        "producto_mercadona": "Leche Sin Lactosa",
+                        "frecuencia_videos": 29,
+                        "vistas_totales": 718893
+                    },
+                    {
+                        "producto_mercadona": "Pan de Molde Sin Gluten",
+                        "frecuencia_videos": 23,
+                        "vistas_totales": 674292
+                    }
+                ],
+                "Familia Numerosa": [
+                    {
+                        "producto_mercadona": "Detergente Lavadora Formato XL",
+                        "frecuencia_videos": 39,
+                        "vistas_totales": 1259545
+                    },
+                    {
+                        "producto_mercadona": "Pack Ahorro de Leche Entera (6L)",
+                        "frecuencia_videos": 46,
+                        "vistas_totales": 1224728
+                    },
+                    {
+                        "producto_mercadona": "Pasta Espagueti (1kg)",
+                        "frecuencia_videos": 42,
+                        "vistas_totales": 1175171
+                    }
+                ],
+                "Vegano": [
+                    {
+                        "producto_mercadona": "Garbanzos Cocidos (Bote)",
+                        "frecuencia_videos": 73,
+                        "vistas_totales": 6843346
+                    },
+                    {
+                        "producto_mercadona": "Tofu Ecológico Hacendado",
+                        "frecuencia_videos": 61,
+                        "vistas_totales": 5435862
+                    },
+                    {
+                        "producto_mercadona": "Hummus Clásico",
+                        "frecuencia_videos": 59,
+                        "vistas_totales": 5298956
+                    }
+                ],
+                "Conveniente/Express": [
+                    {
+                        "producto_mercadona": "Lasaña de Carne Refrigerada",
+                        "frecuencia_videos": 48,
+                        "vistas_totales": 4979151
+                    },
+                    {
+                        "producto_mercadona": "Ensalada Completa Lista para Comer",
+                        "frecuencia_videos": 37,
+                        "vistas_totales": 4457332
+                    },
+                    {
+                        "producto_mercadona": "Tortilla de Patatas Envasada",
+                        "frecuencia_videos": 43,
+                        "vistas_totales": 4283172
+                    }
+                ],
+                "Gourmet/Premium": [
+                    {
+                        "producto_mercadona": "Queso Curado Añejo",
+                        "frecuencia_videos": 18,
+                        "vistas_totales": 525343
+                    },
+                    {
+                        "producto_mercadona": "Aceite de Oliva Virgen Extra (AOVE) Selección",
+                        "frecuencia_videos": 20,
+                        "vistas_totales": 436805
+                    },
+                    {
+                        "producto_mercadona": "Jamón Ibérico Loncheado",
+                        "frecuencia_videos": 15,
+                        "vistas_totales": 339909
+                    }
+                ]
+            }
+        },
+        "2025-11": {
+            "vistas_totales_nicho": [
+                {
+                    "nicho_tribu": "Vegano",
+                    "vistas_totales": 8532241,
+                    "total_videos": 86
+                },
+                {
+                    "nicho_tribu": "Gym Enthusiast",
+                    "vistas_totales": 6278958,
+                    "total_videos": 70
+                },
+                {
+                    "nicho_tribu": "Conveniente/Express",
+                    "vistas_totales": 4026981,
+                    "total_videos": 48
+                },
+                {
+                    "nicho_tribu": "Familia Numerosa",
+                    "vistas_totales": 1834944,
+                    "total_videos": 69
+                },
+                {
+                    "nicho_tribu": "Eco-Friendly",
+                    "vistas_totales": 1577696,
+                    "total_videos": 59
+                },
+                {
+                    "nicho_tribu": "Celíaco/Intolerancias",
+                    "vistas_totales": 1140744,
+                    "total_videos": 46
+                },
+                {
+                    "nicho_tribu": "Gourmet/Premium",
+                    "vistas_totales": 654109,
+                    "total_videos": 23
+                }
+            ],
+            "engagement_promedio_nicho": [
+                {
+                    "nicho_tribu": "Conveniente/Express",
+                    "ratio_engagement_promedio": 0.05404870151461866
+                },
+                {
+                    "nicho_tribu": "Gym Enthusiast",
+                    "ratio_engagement_promedio": 0.05171783366215943
+                },
+                {
+                    "nicho_tribu": "Celíaco/Intolerancias",
+                    "ratio_engagement_promedio": 0.050755960122057
+                },
+                {
+                    "nicho_tribu": "Vegano",
+                    "ratio_engagement_promedio": 0.05049217895196382
+                },
+                {
+                    "nicho_tribu": "Eco-Friendly",
+                    "ratio_engagement_promedio": 0.04977002226376414
+                },
+                {
+                    "nicho_tribu": "Familia Numerosa",
+                    "ratio_engagement_promedio": 0.049319093028598715
+                },
+                {
+                    "nicho_tribu": "Gourmet/Premium",
+                    "ratio_engagement_promedio": 0.04489274961083517
+                }
+            ],
+            "productos_en_tendencia": {
+                "Familia Numerosa": [
+                    {
+                        "producto_mercadona": "Huevos Talla L (Docena)",
+                        "frecuencia_videos": 18,
+                        "vistas_totales": 526695
+                    },
+                    {
+                        "producto_mercadona": "Pasta Espagueti (1kg)",
+                        "frecuencia_videos": 16,
+                        "vistas_totales": 453757
+                    },
+                    {
+                        "producto_mercadona": "Detergente Lavadora Formato XL",
+                        "frecuencia_videos": 16,
+                        "vistas_totales": 362626
+                    }
+                ],
+                "Celíaco/Intolerancias": [
+                    {
+                        "producto_mercadona": "Leche Sin Lactosa",
+                        "frecuencia_videos": 13,
+                        "vistas_totales": 330120
+                    },
+                    {
+                        "producto_mercadona": "Pasta de Maíz/Arroz (Sin Gluten)",
+                        "frecuencia_videos": 10,
+                        "vistas_totales": 254239
+                    },
+                    {
+                        "producto_mercadona": "Galletas de Arroz",
+                        "frecuencia_videos": 11,
+                        "vistas_totales": 243602
+                    }
+                ],
+                "Eco-Friendly": [
+                    {
+                        "producto_mercadona": "Bolsas Reutilizables Fruta",
+                        "frecuencia_videos": 12,
+                        "vistas_totales": 387279
+                    },
+                    {
+                        "producto_mercadona": "Champú Sólido",
+                        "frecuencia_videos": 15,
+                        "vistas_totales": 385472
+                    },
+                    {
+                        "producto_mercadona": "Huevos Ecológicos (L)",
+                        "frecuencia_videos": 12,
+                        "vistas_totales": 311936
+                    }
+                ],
+                "Vegano": [
+                    {
+                        "producto_mercadona": "Bebida de Avena BIO",
+                        "frecuencia_videos": 29,
+                        "vistas_totales": 2696431
+                    },
+                    {
+                        "producto_mercadona": "Hummus Clásico",
+                        "frecuencia_videos": 21,
+                        "vistas_totales": 1960905
+                    },
+                    {
+                        "producto_mercadona": "Garbanzos Cocidos (Bote)",
+                        "frecuencia_videos": 13,
+                        "vistas_totales": 1571859
+                    }
+                ],
+                "Gourmet/Premium": [
+                    {
+                        "producto_mercadona": "Jamón Ibérico Loncheado",
+                        "frecuencia_videos": 6,
+                        "vistas_totales": 178989
+                    },
+                    {
+                        "producto_mercadona": "Chocolate 85% Cacao",
+                        "frecuencia_videos": 5,
+                        "vistas_totales": 171616
+                    },
+                    {
+                        "producto_mercadona": "Aceite de Oliva Virgen Extra (AOVE) Selección",
+                        "frecuencia_videos": 5,
+                        "vistas_totales": 170501
+                    }
+                ],
+                "Gym Enthusiast": [
+                    {
+                        "producto_mercadona": "Pechuga de Pavo Loncheada",
+                        "frecuencia_videos": 18,
+                        "vistas_totales": 1676941
+                    },
+                    {
+                        "producto_mercadona": "Claras de Huevo",
+                        "frecuencia_videos": 17,
+                        "vistas_totales": 1504848
+                    },
+                    {
+                        "producto_mercadona": "Crema de Cacahuete Natural",
+                        "frecuencia_videos": 15,
+                        "vistas_totales": 1332731
+                    }
+                ],
+                "Conveniente/Express": [
+                    {
+                        "producto_mercadona": "Tortilla de Patatas Envasada",
+                        "frecuencia_videos": 9,
+                        "vistas_totales": 1148955
+                    },
+                    {
+                        "producto_mercadona": "Bandeja de Sushi",
+                        "frecuencia_videos": 9,
+                        "vistas_totales": 1051951
+                    },
+                    {
+                        "producto_mercadona": "Pizza Congelada Variada",
+                        "frecuencia_videos": 13,
+                        "vistas_totales": 728127
+                    }
+                ]
+            }
+        }
+    }
+}
