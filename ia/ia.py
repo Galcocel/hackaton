@@ -7,8 +7,6 @@ import numpy as np
 
 # Cargar modelo de embeddings (solo una vez)
 model = SentenceTransformer("all-MiniLM-L6-v2")
-
-from sentence_transformers import SentenceTransformer
 import numpy as np
 import json
 
@@ -117,17 +115,9 @@ def modificar_pesos_ciudad(nombre_ciudad, nuevos_pesos):
     else:
         print(f"Ciudad '{nombre_ciudad}' no encontrada.")
 
-
-
-
-
-
-
-
 # Ejemplo de uso
 if __name__ == "__main__":
     
-
     lista = ["manzanas", "plátanos", "leche", "pan"]
 
     cliente = "cliente1"
