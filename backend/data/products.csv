@@ -1,0 +1,29 @@
+id,name,cat,price,tags
+P001,Claras de huevo (6 uds),Proteína,4.5,"fitness,proteina"
+P002,Avena integral (1kg),Carbohidratos,2.3,"fitness,desayuno"
+P003,Pechuga de pollo (500g),Proteína,4.15,"fitness,proteina"
+P004,Arroz integral (1kg),Carbohidratos,1.8,fitness
+P005,Brócoli (500g),Verdura,1.2,"fitness,verdura"
+P006,Proteína whey (1kg),Suplemento,24.5,"fitness,proteina,suplemento"
+P010,Tofu ecológico (400g),Proteína,3.2,"vegano,proteina"
+P011,Bebida de soja (1L),Lácteos Alt,1.5,"vegano,lacteo"
+P012,Garbanzos ecológicos,Legumbre,2.1,"vegano,legumbre"
+P013,Tahini (300g),Condimento,4.5,vegano
+P014,Quinoa (500g),Cereal,3.8,"vegano,cereal"
+P015,Aguacate (4 uds),Fruta,4.2,"vegano,fruta"
+P020,Leche entera (6 pack),Lácteos,5.4,"lacteo,basico"
+P021,Pan de molde,Panadería,1.2,"panaderia,basico"
+P022,Yogures naturales (12 uds),Lácteos,3.6,lacteo
+P023,Pasta (3 packs),Carbohidratos,2.7,"pasta,basico"
+P024,Tomate frito (3 botes),Conserva,2.1,"conserva,basico"
+P025,Galletas (2 packs),Dulce,3.0,dulce
+P030,Pasta instantánea (5 uds),Preparado,3.5,"rapido,economico"
+P031,Pizza congelada,Congelado,2.8,"congelado,rapido"
+P032,Bebida energética (4 uds),Bebida,4.0,"energia,bebida"
+P033,Patatas fritas,Snack,1.5,snack
+P034,Sandwich mixto,Preparado,2.2,rapido
+P040,Queso manchego curado,Queso,8.5,"gourmet,queso"
+P041,Aceite de oliva virgen extra,Aceite,12.0,"gourmet,aceite"
+P042,Jamón ibérico (100g),Embutido,15.5,"gourmet,jamon"
+P043,Vino tinto reserva,Bebida,9.5,"gourmet,vino"
+P044,Chocolate 85% cacao,Dulce,3.8,"gourmet,chocolate"
