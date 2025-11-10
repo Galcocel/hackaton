@@ -6,46 +6,46 @@ import os
 
 # === PRODUCTOS POR TRIBU ===
 productos_gym = [
-    {"id": "P001", "name": "Claras de huevo (6 uds)", "cat": "Proteína", "price": 4.5, "tags": "fitness,proteina"},
-    {"id": "P002", "name": "Avena integral (1kg)", "cat": "Carbohidratos", "price": 2.3, "tags": "fitness,desayuno"},
-    {"id": "P003", "name": "Pechuga de pollo (500g)", "cat": "Proteína", "price": 4.15, "tags": "fitness,proteina"},
-    {"id": "P004", "name": "Arroz integral (1kg)", "cat": "Carbohidratos", "price": 1.8, "tags": "fitness"},
-    {"id": "P005", "name": "Brócoli (500g)", "cat": "Verdura", "price": 1.2, "tags": "fitness,verdura"},
-    {"id": "P006", "name": "Proteína whey (1kg)", "cat": "Suplemento", "price": 24.5, "tags": "fitness,proteina,suplemento"},
+    {"id": "P001", "name": "Claras de huevo (6 uds)", "cat": "Proteína", "price": 4.5, "tags": "Gym Enthusiast"},
+    {"id": "P002", "name": "Avena integral (1kg)", "cat": "Carbohidratos", "price": 2.3, "tags": "Gym Enthusiast"},
+    {"id": "P003", "name": "Pechuga de pollo (500g)", "cat": "Proteína", "price": 4.15, "tags": "Gym Enthusiast"},
+    {"id": "P004", "name": "Arroz integral (1kg)", "cat": "Carbohidratos", "price": 1.8, "tags": "Gym Enthusiast"},
+    {"id": "P005", "name": "Brócoli (500g)", "cat": "Verdura", "price": 1.2, "tags": "Gym Enthusiast"},
+    {"id": "P006", "name": "Proteína whey (1kg)", "cat": "Suplemento", "price": 24.5, "tags": "Gym Enthusiast"},
 ]
 
 productos_vegano = [
-    {"id": "P010", "name": "Tofu ecológico (400g)", "cat": "Proteína", "price": 3.2, "tags": "vegano,proteina"},
-    {"id": "P011", "name": "Bebida de soja (1L)", "cat": "Lácteos Alt", "price": 1.5, "tags": "vegano,lacteo"},
-    {"id": "P012", "name": "Garbanzos ecológicos", "cat": "Legumbre", "price": 2.1, "tags": "vegano,legumbre"},
-    {"id": "P013", "name": "Tahini (300g)", "cat": "Condimento", "price": 4.5, "tags": "vegano"},
-    {"id": "P014", "name": "Quinoa (500g)", "cat": "Cereal", "price": 3.8, "tags": "vegano,cereal"},
-    {"id": "P015", "name": "Aguacate (4 uds)", "cat": "Fruta", "price": 4.2, "tags": "vegano,fruta"},
+    {"id": "P010", "name": "Tofu ecológico (400g)", "cat": "Proteína", "price": 3.2, "tags": "Vegano"},
+    {"id": "P011", "name": "Bebida de soja (1L)", "cat": "Lácteos Alt", "price": 1.5, "tags": "Vegano"},
+    {"id": "P012", "name": "Garbanzos ecológicos", "cat": "Legumbre", "price": 2.1, "tags": "Vegano"},
+    {"id": "P013", "name": "Tahini (300g)", "cat": "Condimento", "price": 4.5, "tags": "Vegano"},
+    {"id": "P014", "name": "Quinoa (500g)", "cat": "Cereal", "price": 3.8, "tags": "Vegano"},
+    {"id": "P015", "name": "Aguacate (4 uds)", "cat": "Fruta", "price": 4.2, "tags": "Vegano"},
 ]
 
 productos_familia = [
-    {"id": "P020", "name": "Leche entera (6 pack)", "cat": "Lácteos", "price": 5.4, "tags": "lacteo,basico"},
-    {"id": "P021", "name": "Pan de molde", "cat": "Panadería", "price": 1.2, "tags": "panaderia,basico"},
-    {"id": "P022", "name": "Yogures naturales (12 uds)", "cat": "Lácteos", "price": 3.6, "tags": "lacteo"},
-    {"id": "P023", "name": "Pasta (3 packs)", "cat": "Carbohidratos", "price": 2.7, "tags": "pasta,basico"},
-    {"id": "P024", "name": "Tomate frito (3 botes)", "cat": "Conserva", "price": 2.1, "tags": "conserva,basico"},
-    {"id": "P025", "name": "Galletas (2 packs)", "cat": "Dulce", "price": 3.0, "tags": "dulce"},
+    {"id": "P020", "name": "Leche entera (6 pack)", "cat": "Lácteos", "price": 5.4, "tags": "Familia Numerosa"},
+    {"id": "P021", "name": "Pan de molde", "cat": "Panadería", "price": 1.2, "tags": "Familia Numerosa"},
+    {"id": "P022", "name": "Yogures naturales (12 uds)", "cat": "Lácteos", "price": 3.6, "tags": "Familia Numerosa"},
+    {"id": "P023", "name": "Pasta (3 packs)", "cat": "Carbohidratos", "price": 2.7, "tags": "Familia Numerosa"},
+    {"id": "P024", "name": "Tomate frito (3 botes)", "cat": "Conserva", "price": 2.1, "tags": "Familia Numerosa"},
+    {"id": "P025", "name": "Galletas (2 packs)", "cat": "Dulce", "price": 3.0, "tags": "Familia Numerosa"},
 ]
 
 productos_estudiante = [
-    {"id": "P030", "name": "Pasta instantánea (5 uds)", "cat": "Preparado", "price": 3.5, "tags": "rapido,economico"},
-    {"id": "P031", "name": "Pizza congelada", "cat": "Congelado", "price": 2.8, "tags": "congelado,rapido"},
-    {"id": "P032", "name": "Bebida energética (4 uds)", "cat": "Bebida", "price": 4.0, "tags": "energia,bebida"},
-    {"id": "P033", "name": "Patatas fritas", "cat": "Snack", "price": 1.5, "tags": "snack"},
-    {"id": "P034", "name": "Sandwich mixto", "cat": "Preparado", "price": 2.2, "tags": "rapido"},
+    {"id": "P030", "name": "Pasta instantánea (5 uds)", "cat": "Preparado", "price": 3.5, "tags": "Conveniente/Express"},
+    {"id": "P031", "name": "Pizza congelada", "cat": "Congelado", "price": 2.8, "tags": "Conveniente/Express"},
+    {"id": "P032", "name": "Bebida energética (4 uds)", "cat": "Bebida", "price": 4.0, "tags": "Conveniente/Express"},
+    {"id": "P033", "name": "Patatas fritas", "cat": "Snack", "price": 1.5, "tags": "Conveniente/Express"},
+    {"id": "P034", "name": "Sandwich mixto", "cat": "Preparado", "price": 2.2, "tags": "Conveniente/Express"},
 ]
 
 productos_gourmet = [
-    {"id": "P040", "name": "Queso manchego curado", "cat": "Queso", "price": 8.5, "tags": "gourmet,queso"},
-    {"id": "P041", "name": "Aceite de oliva virgen extra", "cat": "Aceite", "price": 12.0, "tags": "gourmet,aceite"},
-    {"id": "P042", "name": "Jamón ibérico (100g)", "cat": "Embutido", "price": 15.5, "tags": "gourmet,jamon"},
-    {"id": "P043", "name": "Vino tinto reserva", "cat": "Bebida", "price": 9.5, "tags": "gourmet,vino"},
-    {"id": "P044", "name": "Chocolate 85% cacao", "cat": "Dulce", "price": 3.8, "tags": "gourmet,chocolate"},
+    {"id": "P040", "name": "Queso manchego curado", "cat": "Queso", "price": 8.5, "tags": "Gourmet/Premium"},
+    {"id": "P041", "name": "Aceite de oliva virgen extra", "cat": "Aceite", "price": 12.0, "tags": "Gourmet/Premium"},
+    {"id": "P042", "name": "Jamón ibérico (100g)", "cat": "Embutido", "price": 15.5, "tags": "Gourmet/Premium"},
+    {"id": "P043", "name": "Vino tinto reserva", "cat": "Bebida", "price": 9.5, "tags": "Gourmet/Premium"},
+    {"id": "P044", "name": "Chocolate 85% cacao", "cat": "Dulce", "price": 3.8, "tags": "Gourmet/Premium"},
 ]
 
 # === MAPEO TRIBU → PRODUCTOS ===
